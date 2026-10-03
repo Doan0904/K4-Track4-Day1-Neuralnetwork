@@ -1,4 +1,4 @@
-# Báo cáo Lab Day 1 — <Họ tên> — <MSSV>
+# Báo cáo Lab Day 1 — Đặng Đỉnh Đoàn — 2A202602927
 
 ## 1. Thiết lập
 
